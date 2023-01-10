@@ -10,3 +10,18 @@ Documentación Lenguaje R y Tópicos Relacionados
   <li>Jeroen Ooms. <a href="https://cran.r-project.org/web/packages/js/vignettes/intro.html#Script_Validation" target="_blank">Working with JavaScript Syntax in R</a>.</li>
   <li>John Coene (2021). <a href="https://book.javascript-for-r.com/" target="_blank">JavaScript for R</a>.</li>
 </ul>
+
+Subconjuntos de datos
+<ul>
+  <li>https://swcarpentry.github.io/r-novice-gapminder-es/06-data-subsetting/index.html</li>
+</ul>
+
+Gráficos
+<ul>
+  <li>https://r-charts.com/es/r-base/combinar-graficos/</li>
+</ul>
+
+Recursos
+<ul>
+  <li>Machine Learning Repository: https://archive.ics.uci.edu/ml/index.php</li>
+</ul>
