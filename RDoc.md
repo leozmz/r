@@ -14,11 +14,6 @@
 
 <h3>Sitios Web</h3>
 
-Subconjuntos de datos
-<ul>
-  <li>https://swcarpentry.github.io/r-novice-gapminder-es/06-data-subsetting/index.html</li>
-</ul>
-
 Gráficos
 <ul>
   <li>https://r-charts.com/es/r-base/combinar-graficos</li>
@@ -32,6 +27,11 @@ Recursos
 RMarkdown
 <ul>
   <li>https://rmarkdown.rstudio.com/index.html</li>
+</ul>
+
+Subconjuntos de datos
+<ul>
+  <li>https://swcarpentry.github.io/r-novice-gapminder-es/06-data-subsetting/index.html</li>
 </ul>
 
 Tipos de datos
