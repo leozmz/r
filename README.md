@@ -38,3 +38,8 @@ Tipos de datos
 <ul>
   <li>https://r-coder.com/tipos-datos-r</li>
 </ul>
+
+Web Scraping
+<ul>
+  <li>https://www.r-bloggers.com/2023/01/web-scraping-in-r-2/</li>
+</ul>
