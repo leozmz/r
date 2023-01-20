@@ -27,6 +27,7 @@ Recursos
 RMarkdown
 <ul>
   <li>https://rmarkdown.rstudio.com/index.html</li>
+  <li>https://rpubs.com/med11/referencias_rmarkdown</li>
 </ul>
 
 Subconjuntos de datos
